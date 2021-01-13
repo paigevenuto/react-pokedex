@@ -1,0 +1,9 @@
+.pokedex-contents {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.pokedex h1 {
+    text-align: center;
+    color: gray;
+}
